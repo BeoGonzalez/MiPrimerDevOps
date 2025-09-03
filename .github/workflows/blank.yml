@@ -20,5 +20,5 @@ jobs:
 
       - name: agregar markdown
         uses: DavidAnson/markdownlint-cli2-action@v20
-      - name: linter
-        uses: markdownlint.json
+        with: 
+          config: markdownlint.json

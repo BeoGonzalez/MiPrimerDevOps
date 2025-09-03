@@ -21,7 +21,7 @@ Consiste en una práctica para la prueba que se va a realizar el día 12 de sept
 por ejemplo:
 1. - [x] README.md → descripción general del proyecto.
 2. - [x] CONTRIBUTING.md → reglas para contribuir. [Guía de convivencia](CONTRIBUTING.md)
-3. - [ ]CHANGELOG.md → registro de cambios.
+3. - [ ] CHANGELOG.md → registro de cambios.
 4. - [x] LICENSE.md → licencia del proyecto.
 --------------------------------------------------------------------------------------------
 

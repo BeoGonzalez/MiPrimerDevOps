@@ -1,4 +1,4 @@
-# MiPrimerDevOps
+# Mi Primer DevOps
 
 ## Propósito del proyecto
 

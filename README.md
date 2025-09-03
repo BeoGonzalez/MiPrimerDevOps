@@ -13,7 +13,7 @@ Consiste en una práctica para la prueba que se va a realizar el día 12 de sept
 ### 2. Ramas y commits
 1. Crear al menos una rama adicional siguiendo el flujo de ramas visto en clase
 > ejemplo: feature/docs o feature/config.
-2. [ ] Hacer mínimo 5 commits significativos
+2. [x] Hacer mínimo 5 commits significativos
 --------------------------------------------------------------------------------------------
 
 ### 3. Archivos de información
@@ -26,15 +26,15 @@ por ejemplo:
 --------------------------------------------------------------------------------------------
 
 ### 4. GitHub Actions
-- [ ] Configurar un workflow de GitHub Actions en .github/workflows/.
-- [ ] El workflow debe contener al menos un gatillador (trigger), como:
-- [ ] on: push (cada vez que se suben cambios), o
-- [ ] on: pull_request (cuando se hace un PR).
-o El workflow debe validar los archivos Markdown usando la acción:
+- [x] Configurar un workflow de GitHub Actions en .github/workflows/.
+- [x] El workflow debe contener al menos un gatillador (trigger), como:
+- [x] on: push (cada vez que se suben cambios), o
+- [x] on: pull_request (cuando se hace un PR).
+- [ ] El workflow debe validar los archivos Markdown usando la acción:
 ▪ DavidAnson/markdownlint-cli2-action@v20
-o El pipeline debe utilizar el archivo .markdownlint.json que será entregado por el
+- [ ] El pipeline debe utilizar el archivo .markdownlint.json que será entregado por el
 profesor.
-o El pipeline debe fallar si algún archivo .md no cumple las reglas.
+- El pipeline debe fallar si algún archivo .md no cumple las reglas.
 --------------------------------------------------------------------------------------------
 
 ### 5. Entregable

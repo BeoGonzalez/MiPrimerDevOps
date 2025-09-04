@@ -6,18 +6,18 @@ Consiste en una práctica para la prueba que se va a realizar el día 12 de sept
 tiene que contener lo pedido en el documento "evaluación formativa devops.docx".
 --------------------------------------------------------------------------------------------
 
-### 1. Repositorio en GitHub
+1. Repositorio en GitHub
 - [x] Crear un repositorio público llamado MiPrimerDevOps.
 - [x] Inicializarlo con un archivo README.md que explique el propósito del proyecto.
 --------------------------------------------------------------------------------------------
 
-### 2. Ramas y commits
+2. Ramas y commits
 1. Crear al menos una rama adicional siguiendo el flujo de ramas visto en clase
 > ejemplo: feature/docs o feature/config.
 2. [x] Hacer mínimo 5 commits significativos
 --------------------------------------------------------------------------------------------
 
-### 3. Archivos de información
+3. Archivos de información
 3. [ ] Crear al menos tres archivos de documentación en formato Markdown (.md),
 por ejemplo:
 1. - [x] README.md → descripción general del proyecto.
@@ -26,7 +26,7 @@ por ejemplo:
 4. - [x] LICENSE.md → licencia del proyecto.
 --------------------------------------------------------------------------------------------
 
-### 4. GitHub Actions
+4. GitHub Actions
 - [x] Configurar un workflow de GitHub Actions en .github/workflows/.
 - [x] El workflow debe contener al menos un gatillador (trigger), como:
 - [x] on: push (cada vez que se suben cambios), o
@@ -38,7 +38,7 @@ profesor.
 - El pipeline debe fallar si algún archivo .md no cumple las reglas.
 --------------------------------------------------------------------------------------------
 
-### 5. Entregable
+5. Entregable
 - Link del repositorio en GitHub.
 - Debe poder verificarse:
 - Los 5 commits en el historial.

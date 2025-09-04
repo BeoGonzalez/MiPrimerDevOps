@@ -2,7 +2,8 @@
 
 ## Propósito del proyecto
 
-Consiste en una práctica para la prueba que se va a realizar el día 12 de septiembre que tiene que contener lo pedido en el documento "evaluación formativa devops.docx".
+Consiste en una práctica para la prueba que se va a realizar el día 12 de septiembre que 
+tiene que contener lo pedido en el documento "evaluación formativa devops.docx".
 --------------------------------------------------------------------------------------------
 
 ### 1. Repositorio en GitHub
@@ -38,10 +39,10 @@ profesor.
 --------------------------------------------------------------------------------------------
 
 ### 5. Entregable
-• Link del repositorio en GitHub.
-• Debe poder verificarse:
-o Los 5 commits en el historial.
-o Los 2 archivos de documentación.
-o El workflow ejecutado en la pestaña Actions, con resultados de la validación
+- Link del repositorio en GitHub.
+- Debe poder verificarse:
+- Los 5 commits en el historial.
+- Los 2 archivos de documentación.
+- El workflow ejecutado en la pestaña Actions, con resultados de la validación
 de Markdown.
 --------------------------------------------------------------------------------------------

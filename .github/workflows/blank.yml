@@ -10,14 +10,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  markdownlint:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: agregar markdown
+      - name: Run markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           globs: '**/*.md'
